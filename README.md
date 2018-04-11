@@ -26,8 +26,8 @@ _If you have any issues or have questions, ideas, concerns, please contact:_ jos
 
 _**HTML** - Hyper Text Markup Language_<br/>
 _**CSS** - Cascading Style Sheets_<br/>
-_**BOOTSTRAP** - Bootstrap_
-_**JAVASCRIPT** - Javascript_
+_**BOOTSTRAP** - Bootstrap_<br/>
+_**JAVASCRIPT** - Javascript_<br/>
 _**JQUERY** - jQuery_
 
 ## License
